@@ -1,7 +1,7 @@
 
 import './App.css';
 
-
+// start landing page ss
 function App() {
   return (
     <div>
