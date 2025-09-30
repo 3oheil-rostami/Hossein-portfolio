@@ -20,6 +20,7 @@ function App() {
 
 
 function Navbar() {
+  console.log('Hello')
   return (
     <nav className="navbar">
       <ul>
@@ -49,8 +50,11 @@ function Home() {
         </div>
       </div>
     </section>
-  );
+  ); 
 }
+
+// test repo
+
 
 function Skills() {
   const skills = [
