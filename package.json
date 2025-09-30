@@ -1,7 +1,5 @@
 {
   "name": "landing-hosein",
-  "homepage": "https://3oheil-rostami.github.io/Hossein-portfolio",
-
   "version": "0.1.0",
   "private": true,
   "dependencies": {
